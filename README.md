@@ -1,5 +1,5 @@
 # productivity_log
-# A simple code to show a scheduled list of activities and times. 
+A simple code to show a scheduled list of activities and times. 
 
 def productivity_log(tasks, times): 
  schedule = [] 
