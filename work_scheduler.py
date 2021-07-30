@@ -13,7 +13,7 @@ def schedule_work(tasks, times):
   return schedule
 
 # Create and list classes and times
-tasks = ["Check emails", "Meet with Ava Lovelace", "Call Grace Hopper", "Go for lunch with Code Girls"]
+tasks = ["Check emails", "Meet with Ava Lovelace", "Call Grace Hopper", "Go for lunch at Coffee and Code Cafe"]
 times = ["9 a.m.", "10 a.m.", "11 a.m.", "12 p.m."]
 schedule = schedule_work(tasks, times)
 
